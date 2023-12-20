@@ -6,4 +6,5 @@ def get_random_word() -> str:
     return response.json()[0]
 
 
-# print(get_random_word())
+if __name__ == "__main__":
+    print(get_random_word())

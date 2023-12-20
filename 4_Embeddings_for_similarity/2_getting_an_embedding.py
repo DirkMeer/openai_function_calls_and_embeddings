@@ -1,12 +1,13 @@
-import openai
+from openai import OpenAI
 from decouple import config
 
-openai.api_key = config("CHATGPT_API_KEY")
+
+client = OpenAI(api_key=config("OPENAI_API_KEY"))
 EMBEDDING_MODEL = "text-embedding-ada-002"
 
 
 def get_quote_embedding(quote):
-    response = openai.Embedding.create(
+    response = client.embeddings.create(
         model=EMBEDDING_MODEL,
         input=quote,
     )

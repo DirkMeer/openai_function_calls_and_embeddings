@@ -1,1 +1,0 @@
-data_extraction_setup = "You will be provided with a block of textual data. You will also be provided with a function. Your job is to call the function with the correct arguments. To get these arguments you will need to methodically extract them from the textual data provided."

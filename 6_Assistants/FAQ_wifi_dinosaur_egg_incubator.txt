@@ -1,0 +1,41 @@
+Question: What exactly does the Wifi feature do on my dinosaur egg incubator?
+Answer: The Wifi feature allows you to connect your dinosaur egg incubator to our dedicated mobile app, enabling you to monitor the temperature, humidity, and estimated hatching time from your smartphone or tablet. You can also receive push notifications for critical temperature changes or when it's time for the eggs to hatch.
+
+Question: How do I set the correct temperature for my velociraptor eggs?
+Answer: Once powered on, use the touchscreen panel to navigate to the 'Species Settings' menu. Select 'Velociraptor' from the pre-programmed species list, and the Wifi dinosaur egg incubator will automatically adjust to the ideal temperature and humidity levels for your velociraptor eggs.
+
+Question: Is it possible to incubate different species at the same time?
+Answer: For optimal results, we recommend incubating one species at a time as different dinosaur species require specific environmental conditions. However, our advanced model offers separate compartments with individual settings if you wish to incubate multiple species simultaneously.
+
+Question: How often should I turn the dinosaur eggs?
+Answer: The Wifi dinosaur egg incubator is equipped with an automatic turning mechanism that gently rotates the eggs at optimal intervals. No manual turning is required. You can monitor and adjust the turning frequency via the mobile app if needed.
+
+Question: Can I connect multiple egg incubators to the app?
+Answer: Yes, you can connect and manage multiple Wifi dinosaur egg incubators through our dedicated app. This way, you can maintain a careful watch over numerous eggs of different species, each with their respective settings, all from a single device.
+
+Question: How do I know if the humidity level is correct?
+Answer: The incubator's built-in hygrometer measures the moisture content inside. The ideal range will be set automatically based on the species you've selected. You can manually adjust humidity levels through the control panel or app.
+
+Question: What if there's a power outage?
+Answer: Our Wifi dinosaur egg incubator comes with a built-in rechargeable battery backup that can last up to 4 hours. The app will notify you in the event of a power outage so you can take necessary action.
+
+Question: How do I clean the incubator after hatching?
+Answer: Ensure the incubator is unplugged and cooled down. Remove any hatched shells and organic material. Clean the interior with a soft, damp cloth and a mild disinfectant. Thoroughly dry before reusing or storing the incubator.
+
+Question: Does the incubator provide nutrition to the eggs?
+Answer: The incubator creates an optimal environment for egg gestation but does not supply nutrition directly to the eggs. Nutritional requirements for growing embryos should be accomplished naturally within the egg, as per the species' biological standards.
+
+Question: How do I troubleshoot a connectivity issue with the Wifi feature?
+Answer: Check to ensure your internet connection is stable. Try disconnecting and reconnecting to your Wifi network. If problems persist, restart your incubator and router. For further assistance, contact our customer support through the app.
+
+Question: What indicators will the incubator show when it's time for the eggs to hatch?
+Answer: The incubator's display and the app will both show a countdown timer that estimates hatching time. As hatching day approaches, you will receive alerts. Additionally, the incubator will increase internal humidity to aid the hatching process.
+
+Question: Is there a warranty for the Wifi dinosaur egg incubator?
+Answer: Yes, our product comes with a one-year warranty covering any manufacturer defects or malfunctions. Be sure to register your incubator through the app to activate your warranty.
+
+Question: Can the incubator be used for bird eggs as well?
+Answer: While the incubator is designed specifically for dinosaur eggs, it can be adjusted for bird eggs. Keep in mind that settings and features may not align perfectly with the needs of modern avian species.
+
+Question: What happens if an egg fails to hatch?
+Answer: In the unfortunate event an egg does not hatch within the expected timeframe, consult with a paleo-avian fertility expert. The Wifi dinosaur egg incubator will keep the egg under consistent monitoring conditions, which you can review for any anomalies during the incubation period.
