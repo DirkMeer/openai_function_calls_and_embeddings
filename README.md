@@ -1,4 +1,4 @@
-# OpenAI - ChatGPT function calls and embeddings
+# OpenAI - ChatGPT function calls and embeddings (Version 2 update)
 
 This is the finished code for the 6 part 'OpenAI - ChatGPT function calls and embeddings' tutorial from the Finxter Academy (https://academy.finxter.com/). This course is an updated version (December - 2023) to reflect the many recent changes in OpenAI's API and Python libraries.
 
