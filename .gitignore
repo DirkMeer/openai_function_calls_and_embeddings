@@ -2,6 +2,10 @@
 *.sqlite
 *.csv
 *.txt
+!IMPORTANT!.txt
+!quotes.txt
+!FAQ*.txt
+
 /.vscode
 
 # Byte-compiled / optimized / DLL files

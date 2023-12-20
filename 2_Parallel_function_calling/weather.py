@@ -21,6 +21,10 @@ def get_current_weather(location) -> str:
     return str_response
 
 
+# print(get_current_weather("Seoul"))
+# print(get_current_weather("Amsterdam"))
+
+
 def get_weather_forecast(location, days=7) -> str:
     try:
         days = 1 if days < 1 else 14 if days > 14 else days

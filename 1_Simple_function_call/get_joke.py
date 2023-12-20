@@ -1,12 +1,12 @@
 from decouple import config
-import openai
+from openai import OpenAI
 
-openai.api_key = config("CHATGPT_API_KEY")
+client = OpenAI(api_key=config("OPENAI_API_KEY"))
 JOKE_SETUP = "I will give you a subject each time for all the following prompts. You will return to me a joke, but it should not be too long (4 lines at most). Please do not provide an introduction like 'Here's a joke for you' but get straight into the joke."
 
 
-def get_joke(query):
-    result = openai.ChatCompletion.create(
+def get_joke(query: str) -> str:
+    result = client.chat.completions.create(
         model="gpt-3.5-turbo",
         temperature=0.4,
         max_tokens=200,
@@ -15,7 +15,8 @@ def get_joke(query):
             {"role": "user", "content": query},
         ],
     )
-    return result["choices"][0]["message"]["content"]
+
+    return result.choices[0].message.content
 
 
 print(get_joke("Penguins"))
